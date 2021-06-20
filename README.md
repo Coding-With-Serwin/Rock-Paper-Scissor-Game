@@ -2,7 +2,7 @@
 
 This is a Rock-Paper-Scissor Game.
 
-But You Can't win in this game.
+But You Can't win in this game. 
 
 And I will make this game in Gui Soon.
 
